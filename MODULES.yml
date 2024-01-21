@@ -18,6 +18,7 @@
 - module: https://github.com/deephdc/DEEP-OC-neural_transfer
 - module: https://github.com/deephdc/DEEP-OC-image-classification-tf-dicom
 - module: https://github.com/deephdc/DEEP-OC-demo_app
+- module: https://github.com/deephdc/DEEP-OC-phytoplankton-classification-tf
 - module: https://github.com/deephdc/UC-adnaneds-DEEP-OC-unet
 - module: https://github.com/deephdc/UC-hereariim-DEEP-OC-blossom
 - module: https://github.com/deephdc/UC-jmbIFR-DEEP-OC-marine_species_seg
@@ -31,3 +32,4 @@
 - module: https://github.com/deephdc/UC-EnocMartinez-DEEP-OC-obsea-fish-detection
 - module: https://github.com/deephdc/UC-emvollmer-deep-oc-tbbrdet_api/
 - module: https://github.com/deephdc/UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection
+
